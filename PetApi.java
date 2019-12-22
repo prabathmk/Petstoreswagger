@@ -10,6 +10,8 @@
  * Do not edit the class manually.
  */
 
+  // This is PET API Class
+
 package io.swagger.client.api;
 
 import io.swagger.client.ApiCallback;
